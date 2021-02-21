@@ -1,2 +1,3 @@
-# Challenge-Files
-This repository contains challenge files.
+# Write-Up
+## Challenge : Take It Easy
+  Difficulty : Easy
