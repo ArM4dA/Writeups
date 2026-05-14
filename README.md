@@ -1,6 +1,6 @@
 # Write-Up
 ## Challenge : Take It Easy
-  Difficulty : Eas
+  Difficulty : Easy
 
 ### Step - I : 
   Unzip the challenge file to get getkey.txt and a password protected zip TRYME.zip.<br>
